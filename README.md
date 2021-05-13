@@ -1,4 +1,4 @@
-# Recommendation_service
+# Recommendation service
  
 This notebook helps you to deploy the Recommendation Model using IBM cloud service Watson studio and Watson Machine Learning (WML) . Watson Studio provides the Apache spark based python notebook and WML helps in exporting the model as endpoint API
  
