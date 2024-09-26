@@ -8,7 +8,7 @@ Following are the steps to deploy the same:
  
 2) Provision the Watson studio from IBM cloud service catalog
  
-3) Deploy te WML service
+3) Deploy to WML service
  
 4) Create a python notebook based project in Watson studio and import the provided notebook
  
